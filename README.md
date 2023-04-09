@@ -1,8 +1,8 @@
-https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhZjJmNzA0YzFkMDliY2U1MjA2MDU4OGQzMGM2ZjQyMDM1YWFhOCZjdD1n/n8trFL96uDQ5lJ6zIU/giphy.gif
 <h1 align="center">Hi 👋, I'm Md Shamim Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM3MjRiNWM1NTdhYTJjYjlhMjM4MTU2ZWFhMzE4ZTljYmFkNWUwMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="shamim0183" /> </p>
+<p align="right"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM3MjRiNWM1NTdhYTJjYjlhMjM4MTU2ZWFhMzE4ZTljYmFkNWUwMyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="shamim0183" /> </p>
 
 - 🌱 I’m currently learning **React**
 
