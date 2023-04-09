@@ -21,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim0183&show_icons=true&locale=en&layout=compact" alt="shamim0183" /></p>
 
-![MD SHAMIM HOSSAIN CV-1](https://user-images.githubusercontent.com/77606340/230756235-dd43d5f7-f247-4fca-87e4-5729765ef277.png)
