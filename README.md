@@ -1,4 +1,5 @@
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhZjJmNzA0YzFkMDliY2U1MjA2MDU4OGQzMGM2ZjQyMDM1YWFhOCZjdD1n/n8trFL96uDQ5lJ6zIU/giphy.gif
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVhZjJmNzA0YzFkMDliY2U1MjA2MDU4OGQzMGM2ZjQyMDM1YWFhOCZjdD1n/n8trFL96uDQ5lJ6zIU/giphy.gif" alt="shamim0183" />
 <h1 align="center">Hi 👋, I'm Md Shamim Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
