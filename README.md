@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML CSS Tailwind Bootstrap**
 
-- 📫 How to reach me **shaamim.hossaain@gmail.com**
+- 📫 How to reach me **shaaamim.hossaaain@gmail.com**
 
 - ⚡ Fun fact **I can manage team events**
 
